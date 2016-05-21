@@ -1,3 +1,9 @@
+/*
+* [A]100
+* [TA's Advise]
+* 1. Good!
+*/
+
 package hw03;
 import javax.swing.JOptionPane;
 
